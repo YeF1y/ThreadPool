@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "L:/CLspace/ThreadPool/cmake-build-debug/CMakeFiles/ThreadPool.dir/embed.manifest"
