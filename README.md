@@ -2,7 +2,7 @@
 
 ## 大致实现过程如图：
 
-![image-20240508180729441](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20240508180729441.png)
+![image-20240508180729441](https://github.com/YeF1y/ThreadPool/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-05-08%20180726.png)
 
 ## 主要组件：
 
